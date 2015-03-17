@@ -1,0 +1,15 @@
+name=rePattern with optional ignore and capture strings
+description=Example from https://code.google.com/p/otroslogviewer/wiki/Log4jPatternLayout
+
+type=log4j
+rePattern=(\\S+ \\S+)\\d (\\S+) +(\\S+) +(?:\\[TID:(\\d+)?[^\\]]*\\] )?(?:User:(\\S+) )?(.*)
+dateFormat=yyyy-MM-dd HH:mm:ss,SSS
+charset=UTF-8
+
+TIMESTAMP.group=1
+# APPLEVEL is a Custom field.  Displayed as key=value pairs in OLV Properties column.
+APPLEVEL.group=2
+LEVEL.group=3
+THREAD.group=4
+NDC.group=5
+MESSAGE.group=6

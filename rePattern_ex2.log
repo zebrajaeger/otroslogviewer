@@ -1,0 +1,5 @@
+2013-12-27 10:41:42,7928 Presentation FATAL [TID:4321] User:blaine A fatal message
+2013-12-27 10:41:42,8037 Core         INFO  User:debbie An info message
+2013-12-27 10:41:43,2953 Presentation FATAL A fatal message
+2013-12-27 10:41:43,2955 DB           INFO  [TID:4321] An info message
+2013-12-27 10:41:43,8151 Core         FATAL [TID:N/A] A fatal message

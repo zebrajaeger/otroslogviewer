@@ -1,0 +1,11 @@
+### Used by ###
+  * [IBM](http://www.ibm.com)
+  * [Sabre-Holdings](http://www.sabre.com/)
+  * [Reasearch in Motion](http://rim.net)
+  * [Nokia-Siemens](http://www.nokiasiemensnetworks.com/)
+  * [QuickSilver](http://wiki.qxlva.com/)
+  * [ELCA](https://www.elca.ch/)
+  * [Aastra](http://www.aastra.se/)
+  * [Tolina](http://tolina.de)
+  * [ECRS](http://ECRSOFT.COM)
+  * [Infonova](https://www.infonova.com)
