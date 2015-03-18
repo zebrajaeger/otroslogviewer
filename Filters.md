@@ -8,12 +8,12 @@ Filters out events with the level lower then the selected one.
 ### Time filter ###
 Filters out events that do not match the selected time frame.
 
-Filters can be edited by selecting ![http://otroslogviewer.googlecode.com/svn/trunk/OtrosLogViewer-app/src/main/resources/img/fugue/funnel--arrow.png](http://otroslogviewer.googlecode.com/svn/trunk/OtrosLogViewer-app/src/main/resources/img/fugue/funnel--arrow.png) in context menu.
+Filters can be edited by selecting ![https://raw.githubusercontent.com/otros-systems/otroslogviewer/master/OtrosLogViewer-app/src/main/resources/img/fugue/funnel--arrow.png](https://raw.githubusercontent.com/otros-systems/otroslogviewer/master/OtrosLogViewer-app/src/main/resources/img/fugue/funnel--arrow.png) in context menu.
 ### Mark/note filter ###
 Filters out marked events or events with a note.
 ### Thread filter ###
 You can use this filter to show events only from the selected thread.
-Filter can be edited by selecting ![http://otroslogviewer.googlecode.com/svn/trunk/OtrosLogViewer-app/src/main/resources/img/fugue/arrow-turn-270.png](http://otroslogviewer.googlecode.com/svn/trunk/OtrosLogViewer-app/src/main/resources/img/fugue/arrow-turn-270.png) or ![http://otroslogviewer.googlecode.com/svn/trunk/resources/img/fugue/arrow-turn-090.png](http://otroslogviewer.googlecode.com/svn/trunk/resources/img/fugue/arrow-turn-090.png) in context menu.
+Filter can be edited by selecting ![https://raw.githubusercontent.com/otros-systems/otroslogviewer/master/OtrosLogViewer-app/src/main/resources/img/fugue/arrow-turn-270.png](https://raw.githubusercontent.com/otros-systems/otroslogviewer/master/OtrosLogViewer-app/src/main/resources/img/fugue/arrow-turn-270.png) or ![http://otroslogviewer.googlecode.com/svn/trunk/resources/img/fugue/arrow-turn-090.png](http://otroslogviewer.googlecode.com/svn/trunk/resources/img/fugue/arrow-turn-090.png) in context menu.
 ### Class filter ###
 You can ignore some classes/packages you do not want to see.
 

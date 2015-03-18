@@ -15,10 +15,10 @@ Message Colorizer is responsilble for changing fonts and colors of text. It can 
 ## Examples ##
 
 ### Statckrace colorizer ###
-![http://otroslogviewer.googlecode.com/svn/wiki/screen-message-colorizing-stacktrace.png](http://otroslogviewer.googlecode.com/svn/wiki/screen-message-colorizing-stacktrace.png)
+![https://raw.githubusercontent.com/otros-systems/otroslogviewer/wiki/screen-message-colorizing-stacktrace.png](https://raw.githubusercontent.com/otros-systems/otroslogviewer/wiki/screen-message-colorizing-stacktrace.png)
 
 ### SOAP ###
-![http://otroslogviewer.googlecode.com/svn/wiki/screen-soap-formatting.png](http://otroslogviewer.googlecode.com/svn/wiki/screen-soap-formatting.png)
+![https://raw.githubusercontent.com/otros-systems/otroslogviewer/wiki/screen-soap-formatting.png](https://raw.githubusercontent.com/otros-systems/otroslogviewer/wiki/screen-soap-formatting.png)
 
 ## Creating custom ##
   * Custom - base on property file //TODO link
