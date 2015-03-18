@@ -38,38 +38,3 @@ For example, when you define the regular expression `.*return code.*[\1-9].*`, y
 
 
 
-<a href='Hidden comment: next/prev'></a>
-
-
-&lt;TABLE width="100%"&gt;
-
-
-
-&lt;TR&gt;
-
-
-
-&lt;TD&gt;
-
-[<-- Marking events](MarkingEvents.md)
-
-
-&lt;/TD&gt;
-
-
-
-&lt;TD align="right"&gt;
-
-[Notes -->](Notes.md)
-
-
-&lt;/TD&gt;
-
-
-
-&lt;/TR&gt;
-
-
-
-&lt;/TABLE&gt;
-

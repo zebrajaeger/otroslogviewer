@@ -17,38 +17,3 @@
 | Alt+e             | Global          | Go to next marked/with note |
 | Alt+r             | Global          | Go to previous marked/with note |
 
-<a href='Hidden comment: next/prev'></a>
-
-
-&lt;TABLE width="100%"&gt;
-
-
-
-&lt;TR&gt;
-
-
-
-&lt;TD&gt;
-
-[<-- Saving and loading log investigation](SavingLoadingLogInvestigation.md)
-
-
-&lt;/TD&gt;
-
-
-
-&lt;TD align="right"&gt;
-
-[Batch processing -->](BatchProcessing.md)
-
-
-&lt;/TD&gt;
-
-
-
-&lt;/TR&gt;
-
-
-
-&lt;/TABLE&gt;
-

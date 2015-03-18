@@ -206,38 +206,4 @@ MESSAGE.group=6
 And finally, here is what you see when you load the log file sample above with the pattern file above:
 ![http://wiki.otroslogviewer.googlecode.com/git/rePattern-ex2.png](http://wiki.otroslogviewer.googlecode.com/git/rePattern-ex2.png)
 
-<a href='Hidden comment: next/prev'></a>
-
-
-&lt;TABLE width="100%"&gt;
-
-
-
-&lt;TR&gt;
-
-
-
-&lt;TD&gt;
-
-[<-- Included log parsers](IncludedLogParsers.md)
-
-
-&lt;/TD&gt;
-
-
-
-&lt;TD align="right"&gt;
-
-[Searching for events -->](SearchEvents.md)
-
-
-&lt;/TD&gt;
-
-
-
-&lt;/TR&gt;
-
-
-
-&lt;/TABLE&gt;
 

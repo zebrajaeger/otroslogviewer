@@ -18,39 +18,3 @@ You can open the log files in three modes:
   * tailing - file is read to the end and waiting for new content. If file is overwritten, starts reading from begging. This work similar to `tail -f` on Unix.
   * open a saved log investigation. You can save your log investigation  (marked events, added notes).
 
-
-<a href='Hidden comment: next/prev'></a>
-
-
-&lt;TABLE width="100%"&gt;
-
-
-
-&lt;TR&gt;
-
-
-
-&lt;TD&gt;
-
-[<-- Opening logs](OpeningLogs.md)
-
-
-&lt;/TD&gt;
-
-
-
-&lt;TD align="right"&gt;
-
-[Listening on socket -->](ListeningOnSocket.md)
-
-
-&lt;/TD&gt;
-
-
-
-&lt;/TR&gt;
-
-
-
-&lt;/TABLE&gt;
-

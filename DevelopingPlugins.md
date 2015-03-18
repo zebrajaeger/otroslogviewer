@@ -22,39 +22,3 @@ $OLV_HOME|$HOME/.otroslogviewer
       markers/ -> put your log automatic marker jar/property definition here
       message/ -> put your MessageFormatters/MessageColorizer jar/property definition here
 ```
-
-<a href='Hidden comment: next/prev'></a>
-
-
-&lt;TABLE width="100%"&gt;
-
-
-
-&lt;TR&gt;
-
-
-
-&lt;TD&gt;
-
-[<-- Batch processing](BatchProcessing.md)
-
-
-&lt;/TD&gt;
-
-
-
-&lt;TD align="right"&gt;
-
-[Custom marker - Java code -->](ImplementingAutomaticLogMarker.md)
-
-
-&lt;/TD&gt;
-
-
-
-&lt;/TR&gt;
-
-
-
-&lt;/TABLE&gt;
-

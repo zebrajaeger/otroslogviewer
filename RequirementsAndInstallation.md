@@ -26,39 +26,3 @@ Bookmarks are stored in $HOME/.vfsjfilechooser/favorites.xml. This file is encry
 
 
 
-
-<a href='Hidden comment: next/prev'></a>
-
-
-&lt;TABLE width="100%"&gt;
-
-
-
-&lt;TR&gt;
-
-
-
-&lt;TD&gt;
-
-[<-- Introduction](Introduction.md)
-
-
-&lt;/TD&gt;
-
-
-
-&lt;TD align="right"&gt;
-
-[Opening logs -->](OpeningLogs.md)
-
-
-&lt;/TD&gt;
-
-
-
-&lt;/TR&gt;
-
-
-
-&lt;/TABLE&gt;
-

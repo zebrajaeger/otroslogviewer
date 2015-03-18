@@ -12,38 +12,3 @@ Sometimes log files are accessible on web page (i.e. on continuous integration s
 
 
 
-<a href='Hidden comment: next/prev'></a>
-
-
-&lt;TABLE width="100%"&gt;
-
-
-
-&lt;TR&gt;
-
-
-
-&lt;TD&gt;
-
-[<-- Connect to Log4j SocketHubAppender](SocketHubAppender.md)
-
-
-&lt;/TD&gt;
-
-
-
-&lt;TD align="right"&gt;
-
-[SFTP private key authorization -->](SftpAuthPubKey.md)
-
-
-&lt;/TD&gt;
-
-
-
-&lt;/TR&gt;
-
-
-
-&lt;/TABLE&gt;
-

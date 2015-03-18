@@ -9,38 +9,3 @@
 
 <a href='http://www.youtube.com/watch?feature=player_embedded&v=3PBym2C9i7k' target='_blank'><img src='http://img.youtube.com/vi/3PBym2C9i7k/0.jpg' width='840' height=480 /></a>
 
-<a href='Hidden comment: next/prev'></a>
-
-
-&lt;TABLE width="100%"&gt;
-
-
-
-&lt;TR&gt;
-
-
-
-&lt;TD&gt;
-
-[<-- Limitations](Limitations.md)
-
-
-&lt;/TD&gt;
-
-
-
-&lt;TD align="right"&gt;
-
-[DonateAndDonors -->](DonateAndDonors.md)
-
-
-&lt;/TD&gt;
-
-
-
-&lt;/TR&gt;
-
-
-
-&lt;/TABLE&gt;
-

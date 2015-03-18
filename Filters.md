@@ -20,39 +20,3 @@ You can ignore some classes/packages you do not want to see.
 
 ## Creating custom filter ##
 See [Implementing log filter](ImplementingLogFilter.md).
-
-<a href='Hidden comment: next/prev'></a>
-
-
-&lt;TABLE width="100%"&gt;
-
-
-
-&lt;TR&gt;
-
-
-
-&lt;TD&gt;
-
-[<-- Notes](Notes.md)
-
-
-&lt;/TD&gt;
-
-
-
-&lt;TD align="right"&gt;
-
-[Log events message detail formatters and colorizers -->](LogEventMessageDetailFormatterAndColorizer.md)
-
-
-&lt;/TD&gt;
-
-
-
-&lt;/TR&gt;
-
-
-
-&lt;/TABLE&gt;
-

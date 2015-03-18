@@ -30,39 +30,3 @@ See video:
 <a href='http://www.youtube.com/watch?feature=player_embedded&v=ESCa-X8l4OE' target='_blank'><img src='http://img.youtube.com/vi/ESCa-X8l4OE/0.jpg' width='1280' height=720 /></a>
 
 
-
-<a href='Hidden comment: next/prev'></a>
-
-
-&lt;TABLE width="100%"&gt;
-
-
-
-&lt;TR&gt;
-
-
-
-&lt;TD&gt;
-
-[<-- Filters](Filters.md)
-
-
-&lt;/TD&gt;
-
-
-
-&lt;TD align="right"&gt;
-
-[Jump to code - Integration with IDE  -->](JumpToCode.md)
-
-
-&lt;/TD&gt;
-
-
-
-&lt;/TR&gt;
-
-
-
-&lt;/TABLE&gt;
-

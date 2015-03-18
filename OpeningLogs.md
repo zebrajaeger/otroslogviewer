@@ -11,39 +11,3 @@ You can open the log files in three modes:
   * open a saved log investigation. You can save your log investigation  (marked events, added notes).
 
 
-
-<a href='Hidden comment: next/prev'></a>
-
-
-&lt;TABLE width="100%"&gt;
-
-
-
-&lt;TR&gt;
-
-
-
-&lt;TD&gt;
-
-[<-- Requirements and installation](RequirementsAndInstallation.md)
-
-
-&lt;/TD&gt;
-
-
-
-&lt;TD align="right"&gt;
-
-[Local and remote file systems -->](LocalAndRemote.md)
-
-
-&lt;/TD&gt;
-
-
-
-&lt;/TR&gt;
-
-
-
-&lt;/TABLE&gt;
-

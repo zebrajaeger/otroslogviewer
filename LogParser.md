@@ -7,39 +7,3 @@ OtrosLogViewer is shipped with predifinied list of log parsers, but you can also
 Log file can be compressed by gzip.
 
 
-
-<a href='Hidden comment: next/prev'></a>
-
-
-&lt;TABLE width="100%"&gt;
-
-
-
-&lt;TR&gt;
-
-
-
-&lt;TD&gt;
-
-[<-- SFTP private key authorization](SftpAuthPubKey.md)
-
-
-&lt;/TD&gt;
-
-
-
-&lt;TD align="right"&gt;
-
-[Included log parsers -->](IncludedLogParsers.md)
-
-
-&lt;/TD&gt;
-
-
-
-&lt;/TR&gt;
-
-
-
-&lt;/TABLE&gt;
-

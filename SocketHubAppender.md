@@ -7,39 +7,3 @@ OtrosLogViewer can read log events from [SocketHubAppender](http://logging.apach
   * select host address and port, click connect
 
 
-
-<a href='Hidden comment: next/prev'></a>
-
-
-&lt;TABLE width="100%"&gt;
-
-
-
-&lt;TR&gt;
-
-
-
-&lt;TD&gt;
-
-[<-- Listening on socket](ListeningOnSocket.md)
-
-
-&lt;/TD&gt;
-
-
-
-&lt;TD align="right"&gt;
-
-[Importing from Http/Https using drag and drop -->](ImportUsingHttpAndDnd.md)
-
-
-&lt;/TD&gt;
-
-
-
-&lt;/TR&gt;
-
-
-
-&lt;/TABLE&gt;
-

@@ -23,38 +23,3 @@ To enable experimental features set property loadExperimentalFeatures on true in
 ```
 
 New menu `Experimental` will be available. This menu contains experimental features, which can be not working as design yet.
-<a href='Hidden comment: next/prev'></a>
-
-
-&lt;TABLE width="100%"&gt;
-
-
-
-&lt;TR&gt;
-
-
-
-&lt;TD&gt;
-
-[<-- Implementing custom message colorizer](ImplementingMessageColorizer.md)
-
-
-&lt;/TD&gt;
-
-
-
-&lt;TD align="right"&gt;
-
-[Limitations -->](Limitations.md)
-
-
-&lt;/TD&gt;
-
-
-
-&lt;/TR&gt;
-
-
-
-&lt;/TABLE&gt;
-

@@ -18,38 +18,3 @@ On screenshot below is shown how IDEA Intellij performs jump to code (yellow lin
 # How to install integration with [Eclipse](https://www.eclipse.org/) #
 Currently there is no plugin for Eclipse. Plugin is in development phase. If you are looking forward for Eclipse integration [retweet us](https://twitter.com/OtrosSystems/status/463966056235536384)
 
-<a href='Hidden comment: next/prev'></a>
-
-
-&lt;TABLE width="100%"&gt;
-
-
-
-&lt;TR&gt;
-
-
-
-&lt;TD&gt;
-
-[<-- Log events message detail formatters and colorizers](LogEventMessageDetailFormatterAndColorizer.md)
-
-
-&lt;/TD&gt;
-
-
-
-&lt;TD align="right"&gt;
-
-[Saving and loading log investigation -->](SavingLoadingLogInvestigation.md)
-
-
-&lt;/TD&gt;
-
-
-
-&lt;/TR&gt;
-
-
-
-&lt;/TABLE&gt;
-

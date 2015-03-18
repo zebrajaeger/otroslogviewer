@@ -20,38 +20,3 @@ It's a tool for interactive, not unattended, log monitoring.
   * [Adds notes to a log event](Notes.md)
   * [Saves and loads log investigation with marks and notes](SavingLoadingLogInvestigation.md)
 
-
-<a href='Hidden comment: next/prev'></a>
-
-
-&lt;TABLE width="100%"&gt;
-
-
-
-&lt;TR&gt;
-
-
-
-&lt;TD&gt;
-
-
-
-&lt;/TD&gt;
-
-
-
-&lt;TD align="right"&gt;
-
-[Requirements and installation -->](RequirementsAndInstallation.md)
-
-
-&lt;/TD&gt;
-
-
-
-&lt;/TR&gt;
-
-
-
-&lt;/TABLE&gt;
-
