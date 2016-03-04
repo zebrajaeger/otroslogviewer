@@ -9,6 +9,10 @@ This is how tooltip with code fragment looks like:
 On screenshot below is shown how IDEA Intellij performs jump to code (yellow line):
 ![http://wiki.otroslogviewer.googlecode.com/git/screen-IdeIntegration-jump.png](http://wiki.otroslogviewer.googlecode.com/git/screen-IdeIntegration-jump.png)
 
+Integration with Intellij IDEA is more advance. It requires information only about logging class or logger and log message. Based on this it will try to locate part of code responsilble for logging.
+
+Integration with Eclipse requires that log line will contain information about location in code (file and line). Logger can be configured to add this information but it is costly operation (requires throwing and catching exception for every log event).
+
 # How to install integration with [IntelliJ IDEA](http://www.jetbrains.com/idea/) #
   1. In Intellij IDEA you have to install OtrosJumpToCode plugin from Jetbrains repository: http://plugins.jetbrains.com/plugin/7406?pr=
   1. Open logs from your application
