@@ -18,6 +18,7 @@ plugins {
 }
 
 project.ext.set('sharedVersion', "1.4.5-SNAPSHOT-${new Date().format("yyyyMMdd-HHmmss")}")
+project.ext.set('pluginVersion', "1.0.0-SNAPSHOT-${new Date().format("yyyyMMdd-HHmmss")}")
 
 subprojects {
     apply plugin: 'java'
@@ -227,3 +228,23 @@ upgradeWrapper << {
     println 'WARNING:  Merge our customizations into the newly-generated wrapper scripts'
 }
 upgradeWrapper.description = 'Upgrade Gradle version.  For SCM Administrators.'
+
+project(':OtrosLogViewer-plugin') {
+    def today = new Date().format("yyyy-MM-dd");
+    dependencies {
+        compile project(':Common-libs')
+        compile project(':OtrosSwing')
+        compile project(':OtrosLogViewer-app')
+        compile project(':OtrosLogViewer-api')
+    }
+    version = pluginVersion
+
+    jar {
+        manifest.mainAttributes(
+                'Implementation-Title': 'OtrosLogViewer-plugin',
+                'Implementation-Version': pluginVersion,
+                'Build-day': today,
+                'Build-date': new Date(),
+        )
+    }
+}
